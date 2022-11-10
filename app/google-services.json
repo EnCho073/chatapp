@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842411356081",
+    "project_id": "withtalk-8a866",
+    "storage_bucket": "withtalk-8a866.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842411356081:android:f72db0f6705631b9dbd790",
+        "android_client_info": {
+          "package_name": "com.example.withtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842411356081-0kbiiigue05d6j14m33m6nf6vhhco07e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCK2iDYt2uTnmxix_0_9UydRDOkySgwYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842411356081-0kbiiigue05d6j14m33m6nf6vhhco07e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
